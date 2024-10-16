@@ -1,0 +1,202 @@
+[
+    {
+      "id": 1,
+      "brand": "The North Face",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€240",
+        "good": "€200",
+        "fair": "€150"
+      }
+    },
+    {
+      "id": 2,
+      "brand": "The North Face",
+      "type": "normal",
+      "price": {
+        "excellent": "€120",
+        "good": "€100",
+        "fair": "€75"
+      }
+    },
+    {
+      "id": 3,
+      "brand": "Patagonia",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€350",
+        "good": "€300",
+        "fair": "€250"
+      }
+    },
+    {
+      "id": 4,
+      "brand": "Patagonia",
+      "type": "normal",
+      "price": {
+        "excellent": "€160",
+        "good": "€130",
+        "fair": "€100"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Arc'teryx",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€380",
+        "good": "€330",
+        "fair": "€280"
+      }
+    },
+    {
+      "id": 6,
+      "brand": "Arc'teryx",
+      "type": "normal",
+      "price": {
+        "excellent": "€220",
+        "good": "€180",
+        "fair": "€150"
+      }
+    },
+    {
+      "id": 7,
+      "brand": "Columbia",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€130",
+        "good": "€110",
+        "fair": "€90"
+      }
+    },
+    {
+      "id": 8,
+      "brand": "Columbia",
+      "type": "normal",
+      "price": {
+        "excellent": "€100",
+        "good": "€85",
+        "fair": "€60"
+      }
+    },
+    {
+      "id": 9,
+      "brand": "Marmot",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€210",
+        "good": "€170",
+        "fair": "€130"
+      }
+    },
+    {
+      "id": 10,
+      "brand": "Marmot",
+      "type": "normal",
+      "price": {
+        "excellent": "€150",
+        "good": "€120",
+        "fair": "€90"
+      }
+    },
+    {
+      "id": 11,
+      "brand": "Rab",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€300",
+        "good": "€250",
+        "fair": "€200"
+      }
+    },
+    {
+      "id": 12,
+      "brand": "Rab",
+      "type": "normal",
+      "price": {
+        "excellent": "€180",
+        "good": "€140",
+        "fair": "€100"
+      }
+    },
+    {
+      "id": 13,
+      "brand": "Helly Hansen",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€180",
+        "good": "€150",
+        "fair": "€120"
+      }
+    },
+    {
+      "id": 14,
+      "brand": "Helly Hansen",
+      "type": "normal",
+      "price": {
+        "excellent": "€140",
+        "good": "€120",
+        "fair": "€90"
+      }
+    },
+    {
+      "id": 15,
+      "brand": "Burton",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€230",
+        "good": "€190",
+        "fair": "€150"
+      }
+    },
+    {
+      "id": 16,
+      "brand": "Burton",
+      "type": "normal",
+      "price": {
+        "excellent": "€160",
+        "good": "€130",
+        "fair": "€100"
+      }
+    },
+    {
+      "id": 17,
+      "brand": "Mountain Hardwear",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€190",
+        "good": "€160",
+        "fair": "€130"
+      }
+    },
+    {
+      "id": 18,
+      "brand": "Mountain Hardwear",
+      "type": "normal",
+      "price": {
+        "excellent": "€130",
+        "good": "€110",
+        "fair": "€80"
+      }
+    },
+    {
+      "id": 19,
+      "brand": "Black Diamond",
+      "type": "gore-tex",
+      "price": {
+        "excellent": "€350",
+        "good": "€300",
+        "fair": "€250"
+      }
+    },
+    {
+      "id": 20,
+      "brand": "Black Diamond",
+      "type": "normal",
+      "price": {
+        "excellent": "€180",
+        "good": "€140",
+        "fair": "€100"
+      }
+    }
+  ]  
